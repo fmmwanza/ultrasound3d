@@ -1,0 +1,1 @@
+./../bin/volumeRendering ../datasets_for_tests/brain256_256_84_8.raw 256 256 0 84
