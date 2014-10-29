@@ -1,2 +1,2 @@
-/bin
-/dataset_for_tests
+/bin/*
+/dataset_for_tests/*
